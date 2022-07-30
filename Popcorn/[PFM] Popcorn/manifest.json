@@ -13,13 +13,5 @@
       "UniqueID": "Failsplat.FroyoJA",
       "IsRequired": true,
     },
-    {
-      "UniqueID": "ppja.artisanvalleymachinegoods",
-      "IsRequired": true,
-    },
-    {
-      "UniqueID": "ppja.artisanvalleyPFM",
-      "IsRequired": true,
-    },
   ]
 }

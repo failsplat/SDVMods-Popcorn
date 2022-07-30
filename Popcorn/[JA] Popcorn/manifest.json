@@ -17,5 +17,9 @@
         "UniqueID": "paradigmnomad.morefood",
         "IsRequired": false,
       },
+      {
+        "UniqueID": "ppja.evenmorerecipes",
+        "IsRequired": false,
+      },
     ],
 }
