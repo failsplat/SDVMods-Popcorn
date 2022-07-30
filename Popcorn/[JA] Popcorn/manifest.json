@@ -1,0 +1,21 @@
+{
+    "Name": "[JA] Popcorn",
+    "Author": "Failsplat",
+    "Version": "1.0.0",
+    "Description": "Adds a popcorn machine and a variety of popcorn flavors.",
+    "UniqueID": "Failsplat.PopcornJA",
+    "UpdateKeys": [ ],
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.JsonAssets"
+    },
+    "Dependencies": [
+      {
+        "UniqueID": "ppja.artisanvalleymachinegoods",
+        "IsRequired": false,
+      },
+      {
+        "UniqueID": "paradigmnomad.morefood",
+        "IsRequired": false,
+      },
+    ],
+}

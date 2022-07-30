@@ -1,0 +1,25 @@
+{
+   "Name": "[PFM] Frozen Yogurt",
+   "Author": "Failsplat",
+   "Description": "Adds frozen yogurt made from Artisan Valley yogurt.",
+   "Version": "1.6.1",
+   "UniqueID": "Failsplat.FroyoPFM",
+     "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "DIGUS.ProducerFrameworkMod"
+    },
+  "Dependencies": [
+    {
+      "UniqueID": "Failsplat.FroyoJA",
+      "IsRequired": true,
+    },
+    {
+      "UniqueID": "ppja.artisanvalleymachinegoods",
+      "IsRequired": true,
+    },
+    {
+      "UniqueID": "ppja.artisanvalleyPFM",
+      "IsRequired": true,
+    },
+  ]
+}
