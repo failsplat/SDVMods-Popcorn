@@ -15,7 +15,6 @@ All recipes use Corn to produce
 - (Plain) Popcorn
 - Butter (with Artisan Valley)
 - Cheese
-- Goat Cheese
 - Caramel (with Even More Recipes)
 - Chocolate (with More Recipes)
 - Kettle Corn (+Sugar)

@@ -14,6 +14,18 @@
   },
   {
       "ProducerName": "Popcorn Machine",
+      "InputIdentifier": "Caramel",
+      "InputStack": 1,
+      "FuelIdentifier": "270",
+      "FuelStack": 2,
+      "MinutesUntilReady": 60,
+      "OutputIdentifier": "Caramel Corn",
+      "OutputStack": 2,
+      "InputPriceBased": false,
+      "Sounds": ["Ship"],
+  },
+  {
+      "ProducerName": "Popcorn Machine",
       "InputIdentifier": "424",
       "InputStack": 1,
       "FuelIdentifier": "270",
@@ -24,6 +36,7 @@
       "InputPriceBased": false,
       "Sounds": ["Ship"],
   },
+  // Plain Popcorn
   {
       "ProducerName": "Popcorn Machine",
       "InputIdentifier": "270",

@@ -1,22 +1,23 @@
 {
-    "Name": "Homemade Popcorn",
-    "Description": "A small paper cup of fresh popcorn. A simple, crunchy snack.",
+    "Name": "Caramel Corn",
+    "Description": "Popcorn with a crunchy caramel coating.",
     "Category": "ArtisanGoods",
     "Edibility": 15,
-    "Price": 130,
+    "Price": 350,
     "IsColored": false,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
     "Recipe": null,
     "HideFromShippingCollection": false,
+    "EnableWithMod": "ppja.evenmorerecipes",
     "ContextTags":
     [
       "universal_like",
-      "color_white",
+      "color_brown",
     ],
     "NameLocalization":
     {
-        "default":"Homemade Popcorn",
+        "default":"Caramel Corn",
         //"es": "",
         //"ko": "",
         //"de": "",
@@ -31,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-        "default": "A small paper bag of fresh popcorn. A simple, crunchy snack.",
+        "default": "Popcorn with a crunchy caramel coating.",
         //"es": "",
         //"ko": "",
         //"de": "",
