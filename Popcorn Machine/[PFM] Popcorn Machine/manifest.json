@@ -1,8 +1,8 @@
 {
    "Name": "[PFM] Popcorn Machine",
    "Author": "Failsplat",
-   "Description": "Adds frozen yogurt made from Artisan Valley yogurt.",
-   "Version": "1.6.1",
+   "Description": "Adds machine recipes for the Popcorn Machine",
+   "Version": "1.0.0",
    "UniqueID": "Failsplat.PopcornPFM",
      "UpdateKeys": [],
     "ContentPackFor": {
