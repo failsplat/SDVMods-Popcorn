@@ -4,7 +4,7 @@
     "Version": "1.0.0",
     "Description": "Adds a popcorn machine and a variety of popcorn flavors.",
     "UniqueID": "Failsplat.PopcornJA",
-    "UpdateKeys": [ ],
+    "UpdateKeys": [ "Nexus:13182" ],
     "ContentPackFor": {
         "UniqueID": "spacechase0.JsonAssets"
     },
