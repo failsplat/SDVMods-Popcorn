@@ -1,4 +1,4 @@
-# Popcorn (Mod for Stardew Valley)
+# Popcorn Machine (Mod for Stardew Valley)
 Turn corn and a variety of toppings into popcorn!
 ## Required Mods
 - Producer Framework Mod
@@ -18,8 +18,7 @@ All recipes use Corn to produce
 - Caramel (with Even More Recipes)
 - Chocolate (with More Recipes)
 - Kettle Corn (+Sugar)
-- Spicy (+Hot Pepper)
-- Chili Lime (with More Trees, +Hot Pepper, Lime)
+- Hot Chili (+Hot Pepper)
 - Truffle
 - Maple
 - Cinnamon Sugar (with More Trees)

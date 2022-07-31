@@ -50,6 +50,18 @@
   },
   {
       "ProducerName": "Popcorn Machine",
+      "InputIdentifier": "260",
+      "InputStack": 1,
+      "FuelIdentifier": "270",
+      "FuelStack": 1,
+      "MinutesUntilReady": 60,
+      "OutputIdentifier": "Hot Chili Popcorn",
+      "OutputStack": 1,
+      "InputPriceBased": false,
+      "Sounds": ["Ship"],
+  },
+  {
+      "ProducerName": "Popcorn Machine",
       "InputIdentifier": "245",
       "InputStack": 1,
       "FuelIdentifier": "270",

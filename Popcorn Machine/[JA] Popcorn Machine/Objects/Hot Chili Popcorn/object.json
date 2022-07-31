@@ -1,0 +1,47 @@
+{
+    "Name": "Hot Chili Popcorn",
+    "Description": "Popcorn kicked up with red chili flakes. Spicy!",
+    "Category": "ArtisanGoods",
+    "Edibility": 15,
+    "Price": 220,
+    "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null,
+    "HideFromShippingCollection": false,
+    "ContextTags":
+    [
+      "universal_like",
+      "color_white",
+    ],
+    "NameLocalization":
+    {
+        "default":"Hot Chili Popcorn",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "default": "Popcorn kicked up with red chili flakes. Spicy!",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it":"",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}
