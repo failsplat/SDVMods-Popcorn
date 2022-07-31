@@ -14,7 +14,6 @@ A new machine! The Popcorn Machine creates a variety of popcorns.
 All recipes use Corn to produce
 - (Plain) Popcorn
 - Butter (with Artisan Valley)
-- Cinnamon (with More Trees)
 - Cheese
 - Goat Cheese
 - Caramel (with Even More Recipes)
@@ -24,6 +23,7 @@ All recipes use Corn to produce
 - Chili Lime (with More Trees, +Hot Pepper, Lime)
 - Truffle
 - Maple
+- Cinnamon Sugar (with More Trees)
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.

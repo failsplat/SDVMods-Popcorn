@@ -1,0 +1,48 @@
+{
+    "Name": "Buttered Popcorn",
+    "Description": "A homemade version movie-theater style popcorn, with plenty of real melted butter.",
+    "Category": "ArtisanGoods",
+    "Edibility": 15,
+    "Price": 350,
+    "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null,
+    "HideFromShippingCollection": false,
+    "EnableWithMod": "ppja.artisanvalleymachinegoods",
+    "ContextTags":
+    [
+      "universal_like",
+      "color_yellow",
+    ],
+    "NameLocalization":
+    {
+        "default":"Buttered Popcorn",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "default": "A homemade version movie-theater style popcorn, with plenty of real melted butter.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it":"",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

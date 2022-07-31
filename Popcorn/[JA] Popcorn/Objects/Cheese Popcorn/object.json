@@ -1,0 +1,47 @@
+{
+    "Name": "Cheese Popcorn",
+    "Description": "Popcorn with a heavy dusting of cheese powder. Turns your fingers and tongue orange.",
+    "Category": "ArtisanGoods",
+    "Edibility": 15,
+    "Price": 400,
+    "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null,
+    "HideFromShippingCollection": false,
+    "ContextTags":
+    [
+      "universal_like",
+      "color_yellow",
+    ],
+    "NameLocalization":
+    {
+        "default":"Cheese Popcorn",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "default": "Popcorn with a heavy dusting of cheese powder. Turns your fingers and tongue orange.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it":"",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}
