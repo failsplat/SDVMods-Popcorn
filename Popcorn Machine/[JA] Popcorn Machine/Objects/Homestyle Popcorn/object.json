@@ -1,5 +1,5 @@
 {
-    "Name": "Homemade Popcorn",
+    "Name": "Homestyle Popcorn",
     "Description": "A small paper cup of fresh popcorn. A simple, crunchy snack.",
     "Category": "ArtisanGoods",
     "Edibility": 15,
@@ -16,7 +16,7 @@
     ],
     "NameLocalization":
     {
-        "default":"Homemade Popcorn",
+        "default":"Homestyle Popcorn",
         //"es": "",
         //"ko": "",
         //"de": "",
