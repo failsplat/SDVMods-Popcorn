@@ -1,6 +1,6 @@
 {
-    "Name": "Caramel Corn",
-    "Description": "Popcorn with a crunchy caramel coating.",
+    "Name": "Chocolate Popcorn",
+    "Description": "Delicious chocolate covering fresh popcorn.",
     "Category": "ArtisanGoods",
     "Edibility": 15,
     "Price": 400,
@@ -9,7 +9,7 @@
     "EdibleBuffs": null,
     "Recipe": null,
     "HideFromShippingCollection": false,
-    "EnableWithMod": "ppja.evenmorerecipes",
+    "EnableWithMod": "paradigmnomad.morefood",
     "ContextTags":
     [
       "universal_like",
@@ -17,7 +17,7 @@
     ],
     "NameLocalization":
     {
-        "default":"Caramel Corn",
+        "default":"Chocolate Popcorn",
         //"es": "",
         //"ko": "",
         //"de": "",
@@ -32,7 +32,7 @@
     },
     "DescriptionLocalization":
     {
-        "default": "Popcorn with a crunchy caramel coating.",
+        "default": "Delicious chocolate covering fresh popcorn.",
         //"es": "",
         //"ko": "",
         //"de": "",
