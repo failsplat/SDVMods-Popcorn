@@ -1,0 +1,47 @@
+{
+    "Name": "Kettle Corn",
+    "Description": "Sweet or salty? With this rustic snack, have both!",
+    "Category": "ArtisanGoods",
+    "Edibility": 15,
+    "Price": 220,
+    "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null,
+    "HideFromShippingCollection": false,
+    "ContextTags":
+    [
+      "universal_like",
+      "color_white",
+    ],
+    "NameLocalization":
+    {
+        "default":"Kettle Corn",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "default": "Sweet or salty? With this rustic snack, have both!",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it":"",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

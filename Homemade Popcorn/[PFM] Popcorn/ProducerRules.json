@@ -48,6 +48,18 @@
       "InputPriceBased": false,
       "Sounds": ["Ship"],
   },
+  {
+      "ProducerName": "Popcorn Machine",
+      "InputIdentifier": "245",
+      "InputStack": 1,
+      "FuelIdentifier": "270",
+      "FuelStack": 1,
+      "MinutesUntilReady": 60,
+      "OutputIdentifier": "Kettle Corn",
+      "OutputStack": 1,
+      "InputPriceBased": false,
+      "Sounds": ["Ship"],
+  },
   // Plain Popcorn
   {
       "ProducerName": "Popcorn Machine",
