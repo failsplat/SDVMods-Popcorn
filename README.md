@@ -21,7 +21,6 @@ All recipes use Corn to produce
 - Hot Chili (+Hot Pepper)
 - Truffle
 - Maple
-- Cinnamon Sugar (with More Trees)
 ## Install
 1. [Install the latest version of SMAPI](https://smapi.io/).
 2. Download this mod folder.

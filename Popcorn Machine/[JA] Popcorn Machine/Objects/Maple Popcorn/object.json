@@ -1,23 +1,22 @@
 {
-    "Name": "Buttered Popcorn",
-    "Description": "A homemade version of movie-theater style popcorn, with plenty of real melted butter.",
+    "Name": "Maple Popcorn",
+    "Description": "Popcorn sweetened with maple syrup.",
     "Category": "ArtisanGoods",
     "Edibility": 15,
-    "Price": 350,
+    "Price": 400,
     "IsColored": false,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
     "Recipe": null,
     "HideFromShippingCollection": false,
-    "EnableWithMod": "ppja.artisanvalleymachinegoods",
     "ContextTags":
     [
       "universal_like",
-      "color_yellow",
+      "color_brown",
     ],
     "NameLocalization":
     {
-        "default":"Buttered Popcorn",
+        "default":"Maple Popcorn",
         //"es": "",
         //"ko": "",
         //"de": "",
@@ -32,7 +31,7 @@
     },
     "DescriptionLocalization":
     {
-        "default": "A homemade version of movie-theater style popcorn, with plenty of real melted butter.",
+        "default": "Popcorn sweetened with maple syrup.",
         //"es": "",
         //"ko": "",
         //"de": "",

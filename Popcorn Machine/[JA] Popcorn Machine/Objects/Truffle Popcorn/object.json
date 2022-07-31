@@ -1,23 +1,22 @@
 {
-    "Name": "Buttered Popcorn",
-    "Description": "A homemade version of movie-theater style popcorn, with plenty of real melted butter.",
+    "Name": "Truffle Popcorn",
+    "Description": "Made with truffle oil, for an elevated snacking experience.",
     "Category": "ArtisanGoods",
     "Edibility": 15,
-    "Price": 350,
+    "Price": 480,
     "IsColored": false,
     "EdibleIsDrink": false,
     "EdibleBuffs": null,
     "Recipe": null,
     "HideFromShippingCollection": false,
-    "EnableWithMod": "ppja.artisanvalleymachinegoods",
     "ContextTags":
     [
       "universal_like",
-      "color_yellow",
+      "color_white",
     ],
     "NameLocalization":
     {
-        "default":"Buttered Popcorn",
+        "default":"Truffle Popcorn",
         //"es": "",
         //"ko": "",
         //"de": "",
@@ -32,7 +31,7 @@
     },
     "DescriptionLocalization":
     {
-        "default": "A homemade version of movie-theater style popcorn, with plenty of real melted butter.",
+        "default": "Made with truffle oil, for an elevated snacking experience.",
         //"es": "",
         //"ko": "",
         //"de": "",
