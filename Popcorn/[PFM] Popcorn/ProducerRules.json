@@ -1,3 +1,13 @@
 [
   // Popcorn
+  {
+      "ProducerName": "Popcorn Machine",
+      "InputIdentifier": "270",
+      "InputStack": 1,
+      "MinutesUntilReady": 60,
+      "OutputIdentifier": "Homemade Popcorn",
+      "OutputStack": 1,
+      "InputPriceBased": false,
+      "Sounds": ["Ship"],
+  },
 ]

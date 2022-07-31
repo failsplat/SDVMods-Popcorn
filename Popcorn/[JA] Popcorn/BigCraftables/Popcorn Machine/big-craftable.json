@@ -1,0 +1,59 @@
+{
+    "Name": "Popcorn Machine",
+    "Description": "Roasts corn kernels in hot oil until they pop!",
+    "Price": 1,
+    "ProvidesLight": false, 
+    "CanPurchase": false,
+    "ReserveExtraIndexCount": 5,
+    "HideFromShippingCollection": true,
+    "Recipe":
+    {
+        "ResultCount": 1,
+        "Ingredients": [
+        {
+            "Object": 335,
+            "Count": 10,
+        },
+        {
+            "Object": 334,
+            "Count": 5,
+        },
+        {
+            "Object": 247,
+            "Count": 8,
+        },
+        ],
+        "CanPurchase": false,
+        "IsDefault": true,
+    },
+        "NameLocalization": //Used for localization. 
+        { 
+            "default": "Popcorn Machine",
+            "es": "", //Spansih
+            "ko": "", //Korean
+            "de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish
+            "zh": "", //Chinese (Simplified)
+        },
+        "DescriptionLocalization": //Used for localization. 
+        { 
+            "default": "Roasts corn kernels in hot oil until they pop!",
+            "es": "", //Spansih
+            "ko": "", //Korean
+            "de": "", //German
+            "fr": "", //French
+            "hu": "", //Hungarian
+            "it": "", //Italian
+            "ja": "", //Japanese
+            "pt": "", //Portuguese
+            "ru": "", //Russian
+            "tr": "", //Turkish
+            "zh": "", //Chinese (Simplified)
+        }
+    }

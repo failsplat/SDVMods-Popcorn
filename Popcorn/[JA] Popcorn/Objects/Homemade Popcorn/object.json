@@ -1,0 +1,47 @@
+{
+    "Name": "Homemade Popcorn",
+    "Description": "A small paper bag of fresh popcorn. A simple, crunchy snack.",
+    "Category": "ArtisanGoods",
+    "Edibility": 15,
+    "Price": 130,
+    "IsColored": false,
+    "EdibleIsDrink": false,
+    "EdibleBuffs": null,
+    "Recipe": null,
+    "HideFromShippingCollection": false,
+    "ContextTags":
+    [
+      "universal_like",
+      "color_white",
+    ],
+    "NameLocalization":
+    {
+        "default":"Homemade Popcorn",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        "default": "A small paper bag of fresh popcorn. A simple, crunchy snack.",
+        //"es": "",
+        //"ko": "",
+        //"de": "",
+        //"fr": "",
+        //"hu": "",
+        // "it":"",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+}

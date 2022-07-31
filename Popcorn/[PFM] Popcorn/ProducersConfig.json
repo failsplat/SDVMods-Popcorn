@@ -1,3 +1,16 @@
 ﻿[
-
+  {
+    "ProducerName": "Popcorn Machine", 
+    "AlternateFrameProducing": false, 
+    "AlternateFrameWhenReady": false, 
+    "DisableBouncingAnimationWhileWorking": true,
+    "ProducingAnimation": { 
+      "RelativeFrameIndex": [1,2,3,4], 
+      "FrameInterval": 10 
+    },
+    "ReadyAnimation": 
+    {
+      "RelativeFrameIndex": [5],
+    },
+  },
 ]

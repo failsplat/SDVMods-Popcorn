@@ -1,5 +1,5 @@
-# Frozen Yogurt (Mod for Stardew Valley)
-Adds a Frozen Yogurt Machine to produce a variety of froyo flavors from Artisan Valley yogurt.
+# Popcorn (Mod for Stardew Valley)
+Turn corn and a variety of toppings into popcorn!
 ## Required Mods
 - Producer Framework Mod
 - Json Assets
@@ -11,7 +11,7 @@ Adds a Frozen Yogurt Machine to produce a variety of froyo flavors from Artisan 
 ## Contents
 A new machine! The Popcorn Machine creates a variety of popcorns.
 # Flavors:
-All recipes use Corn and Oil to produce
+All recipes use Corn to produce
 - (Plain) Popcorn
 - Butter (with Artisan Valley)
 - Cinnamon (with More Trees)
